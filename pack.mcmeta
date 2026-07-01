@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": {
+          "min_inclusive": 15,
+          "max_inclusive": 999
+        },
+        "description": "指令商店 V1.3 | 基于Homestead1.20.1开发，非Homestead请确保陶罐item字段可用"
+    }
+}

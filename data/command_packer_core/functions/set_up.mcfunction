@@ -1,0 +1,2 @@
+scoreboard objectives add pc.val dummy
+give @p minecraft:wooden_sword{Unbreakable:1b,display:{Name:'{"text":"指令宏剑","color":"aqua","italic":false}',Lore:['{"text":"命令&陶罐","color":"gray"}']},pc_command_packer:1b} 1
